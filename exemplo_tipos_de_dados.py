@@ -4,7 +4,7 @@
 numero_inteiro = 42
 print("Número inteiro:", numero_inteiro)
 
-# Números flutuantes
+# Números flutuantes ("Numero com virgula")
 numero_flutuante = 3.14
 print("Número flutuante:", numero_flutuante)
 
